@@ -1,0 +1,3 @@
+www.crestwood.on.ca/upperschool/documents/booklist.html
+
+stackoverflow.com/questions/28766377/how-do-i-use-a-delimiter-with-scanner-usedelimiter-in-java
